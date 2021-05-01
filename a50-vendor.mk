@@ -646,5 +646,5 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a50dd/proprietary/vendor/tee/tui/resolution_common/ID00000100:$(TARGET_COPY_OUT_VENDOR)/tee/tui/resolution_common/ID00000100
 
 PRODUCT_PACKAGES += \
-    libantradio \
-    ImsSettings
+    libantradio
+    #ImsSettings
